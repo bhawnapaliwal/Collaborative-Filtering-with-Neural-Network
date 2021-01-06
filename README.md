@@ -19,3 +19,6 @@ might be interested in or not interested in, the task in explicit feedback syste
 for getting the the exact ratings from 1 to 5 that user might give to an item. We implement two different
 approaches to use Neural Networks with collaborative filtering (implemented in NeuMF.ipynb) and matrix factorization and concatenation (implemented in embed_concat.ipynb) where we
 concatenate user and item embeddings and then develop a model over them.
+
+##Medium Article
+https://medium.com/@bhawna7374/movie-recommendation-system-with-neural-networks-and-collaborative-filtering-explicit-feedback-d2afaafef350
